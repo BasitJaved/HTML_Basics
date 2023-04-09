@@ -1,0 +1,29 @@
+/* Comment   */
+h1{
+  color: white;
+
+}
+li{
+  color:white;
+}
+p{
+  color:rgb(255, 255, 255);
+}
+h4{
+  color: #FFFFFF;
+}
+body{
+  /*background-color: skyblue;*/
+  background: url(img.jpg);
+  background-repeat: no-repeat;
+}
+div{
+  background-color: lightgray;
+  border-color: black;
+  border-width: 3px;
+  border-style: dotted;
+}
+span{
+  background: white;
+  color: black;
+}
