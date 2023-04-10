@@ -6,9 +6,7 @@ h1{
 li{
   color:white;
 }
-p{
-  color:rgb(255, 255, 255);
-}
+
 h4{
   color: #FFFFFF;
 }
@@ -17,7 +15,7 @@ body{
   background: url(img.jpg);
   background-repeat: no-repeat;
 }
-div{
+ div{
   background-color: lightgray;
   border-color: black;
   border-width: 3px;
@@ -26,4 +24,25 @@ div{
 span{
   background: white;
   color: black;
+}
+.firstDiv{
+  color: black;
+}
+.secondDiv{
+  color: red
+}
+#sindledout{
+  color: green;
+  text-decoration: line-through;
+}
+
+h3 + ul{
+  border: 4px dotted purple;
+}
+li a{
+  color: orange;
+}
+li a[href="www.linkedin.com"]{
+  color: lightgreen;
+  border: 2px solid orange;
 }
