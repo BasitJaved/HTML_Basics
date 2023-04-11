@@ -3,9 +3,6 @@ h1{
   color: white;
 
 }
-li{
-  color:white;
-}
 
 h4{
   color: #FFFFFF;
@@ -44,5 +41,15 @@ li a{
 }
 li a[href="www.linkedin.com"]{
   color: lightgreen;
-  border: 2px solid orange;
+  border: px solid orange;
+}
+li{
+  color: red;
+}
+.topitems{
+  color: blue;
+}
+
+#twoo{
+  border: 2px solid black;
 }
