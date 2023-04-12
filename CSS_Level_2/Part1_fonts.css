@@ -1,0 +1,36 @@
+h1{
+  /* font-family: "Arial"; */
+  /* font-family: cursive; */
+  font-family: "Calibri";
+}
+
+p{
+  font-family: monospace;
+}
+
+  /* Changing Font Size */
+
+  body{
+    /* font-size: 20px; */
+    font-size: 20px;
+  }
+
+#two{
+  font-size: 2.0em;/* font-size: 20px in body, here 2.0em means 20px*2=40px; */
+}
+/* Using Fonts from google */
+p{
+  /* font-style: italic;
+  font-weight: bold;
+  /* font-family: 'Kanit', sans-serif; */
+  /* font-family: 'Roboto Condensed', sans-serif; */
+}
+/* Using Fonts from Font library */
+p{
+  font-family: 'AlexBrushRegular';
+  font-weight: normal;
+  font-style: normal;
+}
+h1{
+  text-align: center;
+}
