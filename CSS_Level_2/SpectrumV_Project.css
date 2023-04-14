@@ -1,0 +1,39 @@
+h1{
+  text-align: center;
+  font-family: 'Libre Baskerville', serif;
+}
+.table{
+  margin: auto;
+}
+
+#first{
+  background-color: #ff595e;
+  border: 5px solid white;
+  width: 200px;
+  height: 500px;
+  margin-right: 100px;
+}
+#second{
+  background-color: #ffca3a;
+  border: 5px solid white;
+  width: 200px;
+  height: 500px;
+}
+#third{
+  background-color: #8ac926;
+  border: 5px solid white;
+  width: 200px;
+  height: 500px;
+}
+#fourth{
+  background-color: #1982c4;
+  border: 5px solid white;
+  width: 200px;
+  height: 500px;
+}
+#fifth{
+  background-color: #6a4c93;
+  border: 5px solid white;
+  width: 200px;
+  height: 500px;
+}
