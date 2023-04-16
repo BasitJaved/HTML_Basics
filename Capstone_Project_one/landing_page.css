@@ -1,0 +1,52 @@
+body{
+  background-color: #17c3b2;
+}
+h1{
+  text-align: center;
+  color: white;
+  font-family: 'CrusoeTextRegular';
+  font-weight: normal;
+  font-style: normal;
+  background-color:#000814; 
+}
+h2{
+  text-align: center;
+  color: white;
+  font-family: 'CrusoeTextRegular';
+  font-weight: normal;
+  font-style: normal;
+}
+p{
+  width: 60%;
+  margin: auto;
+  text-align: center;
+  color: white;
+  padding: 10px;
+  font-family: 'CrusoeTextRegular';
+  font-weight: normal;
+  font-style: normal;
+}
+
+form{
+  text-align: center;
+  color: white;
+  font-family: 'CrusoeTextRegular';
+  font-weight: normal;
+  font-style: normal;
+}
+#one{
+  width: 93%;
+  margin: auto;
+  background-color: #000814;
+  font-family: 'CrusoeTextRegular';
+  font-weight: normal;
+  font-style: normal;
+}
+#sub{
+  background-color: orange;
+  width: 150px;
+  height: 75px;
+  border-radius: 18px;
+  -moz-border-radius: 5px;
+  font-size: 20px;
+}
