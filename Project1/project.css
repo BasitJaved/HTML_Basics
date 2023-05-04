@@ -1,9 +1,20 @@
 body{
+  background-image: url("img.jpg");
+  background-repeat: no-repeat;
+  background-size: 1600px 1500px;
   background-color: #0079af;
   text-align: center;
   color: white;
+  padding-top: 250px;
 }
-div{
-  background-image: "img.jpg";
 
+#sub{
+  background-color: #51abcb;
+  color: white;
+  border: 1px solid #eee;
+  border-radius: 20px;
+  box-shadow: 5px 5px 5px #eee;
+  width: 150px;
+  height: 75px;
+  font-size: 25px;
 }
